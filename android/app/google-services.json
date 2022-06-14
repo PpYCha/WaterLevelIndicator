@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107257764478",
+    "project_id": "waterlevelindicator-799ec",
+    "storage_bucket": "waterlevelindicator-799ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107257764478:android:823fc60a9174839358d62f",
+        "android_client_info": {
+          "package_name": "com.waterlevelindicator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107257764478-6sq2vs92at305hgsii58is1dqlstc7qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU_9D_XricUhqAXT4dhqimTtf606PEROo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107257764478-6sq2vs92at305hgsii58is1dqlstc7qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
